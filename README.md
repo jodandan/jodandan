@@ -22,11 +22,12 @@
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
 
+<!--
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodandan&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Jodandan&show_icons=true">
 </div>
-
+-->
 <!--
 **jodandan/jodandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
