@@ -9,9 +9,14 @@
   <img src="https://img.shields.io/badge/React-0088CC?logo=react">
   <img src="https://img.shields.io/badge/Html-D77310?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Css-1572B6?logo=css3&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Styled/components-DB7093?logo=styledcomponents&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/mui-007FFF?logo=mui&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white">
+  
   </div>
 
 <div align=center> 
@@ -19,6 +24,12 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white">
+
+  <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white">
+  
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
 
